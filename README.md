@@ -5,7 +5,7 @@ This prototype is implemented using a wired perfboard-based hardware architectur
 ## 📷 Prototype Hardware
 
 <p align="center">
-  <img src="images/AUTOMATED_GATE_SYSTEM.jpeg" width="600"/>
+  <img src="AUTOMATED_GATE_LEAF.jpeg" width="600"/>
 </p>
 
 # System Architecture
