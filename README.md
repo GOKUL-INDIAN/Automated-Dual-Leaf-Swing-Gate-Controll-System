@@ -2,6 +2,11 @@
 IronDome is a dual-ESP32 based intelligent automated gate control system designed for precise, safe, and reliable operation of a two-leaf swing gate. The system integrates real-time position tracking, obstacle detection, wireless control, and fail-safe logic to ensure industrial-grade performance.
 
 This prototype is implemented using a wired perfboard-based hardware architecture before transitioning to a custom PCB design.
+## 📷 Prototype Hardware
+
+<p align="center">
+  <img src="images/automated_gate_system.jpg" width="600"/>
+</p>
 
 # System Architecture
 The system consists of:
